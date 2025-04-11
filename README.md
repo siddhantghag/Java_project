@@ -2,7 +2,7 @@
 ### Hi there 👋 I’m Siddhant Ghag
 
 🧑‍💻 Software Engineer at mphatek systems pvt ltd.
-🏫 Currently learning Java ackend Skills.  
+🏫 Currently learning about that Java Backend Skills.  
 📫 Reach me at: **siddhantghag7@gmail.com**
 
 ### 🛠️ Languages & Technologies
