@@ -1,8 +1,8 @@
 # Java_project
 ### Hi there 👋 I’m Siddhant Ghag
 
-🧑‍💻 Software Engineer at mphatek systems pvt ltd.
-🏫 Currently learning about that Java Backend Skills.  
+🧑‍💻 Software Engineer at mphatek systems pvt ltd.<br>
+🏫 Currently learning about that Java Backend Skills.  <br>
 📫 Reach me at: **siddhantghag7@gmail.com**
 
 ### 🛠️ Languages & Technologies
