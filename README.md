@@ -7,18 +7,16 @@
 
 ### 🛠️ Languages & Technologies
 
-Language - Java 8 . 
-Framework - Spring, Spring boot, Spring security.
-IDE Tools - Eclipse, Spring Tool Suite, IntelliJIdea. 
-Web & Application Server - Apache Tomcat.
-Database - MYSQL, MSSQL.
-Build Tools - Maven.
-ORM Tools - Hibernate, Spring data jpa. 
-Version Control Tools - GIT.
-Project Management Tools - JIRA. 
-Testing Tools - Postman, Junit.
-Cloud Services - AWS (EC2)
-Microservices – Developed and deployed modular services following Microservices architecture.
+Language - Java 8 . <br>
+Framework - Spring, Spring boot, Spring security.<br>
+IDE Tools - Eclipse, Spring Tool Suite, IntelliJIdea. <br>
+Web & Application Server - Apache Tomcat.<br>
+Database - MYSQL, MSSQL.<br>
+Build Tools - Maven.<br>
+ORM Tools - Hibernate, Spring data jpa. <br>
+Version Control Tools - GIT.<br>
+Project Management Tools - JIRA. <br>
+Testing Tools - Postman, Junit.<br>
 
 ### 🙋‍♂️ Pronouns: he/him
 
